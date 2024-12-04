@@ -1,5 +1,8 @@
-package loginPage;
+package page;
 
 public class LoginPage {
+	
+		
+
 
 }
