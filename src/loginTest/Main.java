@@ -1,4 +1,5 @@
 package loginTest;
+
 import page.LoginPage;
 
 public class Main {
@@ -17,7 +18,15 @@ public class Main {
 		
 		//So let's use another method.
 		
+		//STEP 8. Let's import the class
+		//STEP 9. Let's create an instance and see if it works since we have imported it
 		
+		//STEP 10. Let's call the getLoginInfo class to access the IDs and Passwords
+		
+		IDandPasswords.getLoginInfo();
+		
+		
+		LoginPage loginPage = new LoginPage();
 		
 		
 		
